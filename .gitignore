@@ -1,0 +1,3 @@
+*.log
+file[0-9].txt
+temp?.txt
