@@ -1,3 +1,6 @@
 *.log
 file[0-9].txt
 temp?.txt
+s1-*.log
+s1-temp[0-9].txt
+s1-data?.dat
